@@ -4,6 +4,7 @@ from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
+# Tan Fei Zhi
 # Simple Iris Flower Prediction App
 
 This app predicts the **Iris flower** type!
